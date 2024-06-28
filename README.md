@@ -22,4 +22,6 @@
   3.you can delet your task from the list of task.<br>
   4.you can edit the overall list. <br>
 </p>
-<img href="(https://github.com/harshgehlot-code/CODXO/assets/172536813/95919e50-4f30-4625-9534-6b933b011001)">
+![Screenshot_20240628_000728](Screenshot_20240628_000728.png)
+
+
