@@ -23,4 +23,8 @@
   4.you can edit the overall list. <br>
 </p>
 
+![Screenshot_20240628_000728](https://github.com/harshgehlot-code/CODXO/assets/172536813/db52faf7-264b-4548-bcbf-1868a1243ddb)
+![Screenshot_20240628_000801](https://github.com/harshgehlot-code/CODXO/assets/172536813/f420a8d1-ef4b-43a5-bb89-7d867a050466)
+
+
 
