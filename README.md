@@ -25,6 +25,8 @@
 
 ![Screenshot_20240628_000728](https://github.com/harshgehlot-code/CODXO/assets/172536813/db52faf7-264b-4548-bcbf-1868a1243ddb)
 ![Screenshot_20240628_000801](https://github.com/harshgehlot-code/CODXO/assets/172536813/f420a8d1-ef4b-43a5-bb89-7d867a050466)
+![Screenshot_20240628_000829](https://github.com/harshgehlot-code/CODXO/assets/172536813/81cf9770-aee9-40d6-9479-d7ef32796841)
+![Screenshot_20240628_000849](https://github.com/harshgehlot-code/CODXO/assets/172536813/9b719324-90d3-4da8-87ee-47dd0ab359ca)
 
 
 
