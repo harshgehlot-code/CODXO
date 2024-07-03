@@ -59,3 +59,28 @@
 ![Screenshot_20240703_001716](https://github.com/harshgehlot-code/CODXO/assets/172536813/cafb88d6-b0ae-4f48-8358-95049440a8c8)
 <br><hr>
 
+<h1>Task 3 </h1>
+<hr>
+<h2> >>Expense tracker </h3>
+<hr>
+<h2> >>Design Desription of Expense tracker </h2>
+ <hr>
+ <p>
+  1.At the top there is a heading name as tribute to Elbert Einstein .<br>
+  2.Then photo of Elbert Einstein.<br>
+  3.Then Additional information will show in below div.<br>
+  4.And then you have button to see quotes of elbert einstein.<br>
+</p>
+<hr>
+<h2> >>What can you get in this Expense tracker  </h2>
+<hr>
+<p>
+  1.you will see the heading of name of Elbert Einstein.<br>
+  2.you can read about his biography.<br>
+  3.you can click button to see the famous quotes of elbert einstein.<br>
+</p>
+<br><hr>
+![Screenshot_20240704_004820](https://github.com/harshgehlot-code/CODXO/assets/172536813/9c7b8a11-2ae8-413a-9f05-9c9aede1d315)
+<br> <hr>
+![Screenshot_20240704_005007](https://github.com/harshgehlot-code/CODXO/assets/172536813/568ac97c-fd12-4f88-ab1b-6fffe6f29d26)
+<br><hr>
