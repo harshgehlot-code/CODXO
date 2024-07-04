@@ -66,18 +66,17 @@
 <h2> >>Design Desription of Expense tracker </h2>
  <hr>
  <p>
-  1.At the top there is a heading name as tribute to Elbert Einstein .<br>
-  2.Then photo of Elbert Einstein.<br>
-  3.Then Additional information will show in below div.<br>
-  4.And then you have button to see quotes of elbert einstein.<br>
+  1.At the top there is a two input buttons to take expenses name and amounts.<br>
+  2.Then next div show the unordered list of expenses.<br>
+  3.Then next div show Total expenses amounts.<br>
 </p>
 <hr>
 <h2> >>What can you get in this Expense tracker  </h2>
 <hr>
 <p>
-  1.you will see the heading of name of Elbert Einstein.<br>
-  2.you can read about his biography.<br>
-  3.you can click button to see the famous quotes of elbert einstein.<br>
+  1.you will enter your expenses name and amounts.<br>
+  2.you will see all the expenses list in the next box.<br>
+  3.you will also see total amount of  all expenses .<br>
 </p>
 <br><hr>
 ![Screenshot_20240704_004820](https://github.com/harshgehlot-code/CODXO/assets/172536813/9c7b8a11-2ae8-413a-9f05-9c9aede1d315)
